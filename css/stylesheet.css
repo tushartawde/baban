@@ -1,0 +1,100 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-color: #cd0034;
+	background-image: url("../img/bg.jpg");
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 41px;
+	margin-bottom: 0px;
+}
+
+div#fixedheader {
+	position: fixed;
+	opacity: 0.4;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	color: #CCC;
+	background: #333;
+	padding: 10px;
+}
+
+div#fixedfooter {
+	opacity: 0.4;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	color: #CCC;
+	background: #333;
+	padding: 8px;
+}
+
+td {
+	font-family: sans-serif;
+	color: black;
+	text-align: center;
+}
+
+#th1 {
+	background: #2f4f4f;
+	color: white;
+	padding: 5px;
+	
+}
+#table1 {
+	width: 100%;
+	background-color: black;
+	border-collapse: collapse;
+	height: 40px;
+}
+
+#table2 {
+	width: 100%;
+	background-color: black;
+	height: 480px;
+}
+
+#table3 {
+	border-collapse: collapse;
+	width: 100%;
+	background-color: black;
+	margin-bottom: 0px;
+	background-color: #d5dbdb;
+}
+
+#table4 {
+	width: 100%;
+	background-color: black;
+	border-color: black;
+	border-collapse: collapse;
+	height: 100%;
+	border: "0";
+}
+
+#txt1 {
+	margin-top: 4px;
+	border: 2px solid #456879;
+	border-radius: 10px;
+	height: 22px;
+	width: 180px;
+}
+
+#but1 {
+	margin-top: 25px;
+	margin-left: 20px;
+	margin-right: 18px;
+	border: 2px solid #456879;
+	border-radius: 10px;
+	height: 35px;
+	width: 100px;
+}
+
+#td2 {
+	padding-left:20px;
+	text-align:left;
+	color: Blue;
+}
